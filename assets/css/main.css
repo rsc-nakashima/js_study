@@ -1,0 +1,26 @@
+.main {
+	length: 100vw;
+}
+
+input {
+	line-height: 1.5rem;
+}
+
+.header:after {
+	clear: both;
+}
+
+.header {
+	length: 80vw;
+	margin: 0 10vw;
+}
+
+dl {
+	display: table;
+}
+
+dt, dd {
+	display: table-cell;
+	padding: 0.5rem;
+	line-height: 1.5rem;
+}
